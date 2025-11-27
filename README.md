@@ -1,4 +1,4 @@
-Welcome the repo!
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb128337-def7-4605-b6c0-45eb70897044" />Welcome the repo!
 
 Here you can find my deep learning models. You can download and try these models. I also added one python script for testing the results. Do not forget it is still improving.
 Just follow these steps,
@@ -10,3 +10,5 @@ Just follow these steps,
 
 
 For your questions, suggestions and if want to share data, you can reach me ofu.951@gmail.com adress.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85fbe2c0-088e-4676-9f14-c71a053ec699" />
